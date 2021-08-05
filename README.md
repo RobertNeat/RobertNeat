@@ -8,7 +8,7 @@
 1. Multi process communication: <span style="color:grey">Lab 7</span>
     * PART 1:
         * [x] [fork-function](https://github.com/RobertNeat/fork-function) <span style="color:grey"> 7.1</span>
-        * [ ] [ancestor-descendant]() <span style="color:grey"> 7.2-7.3</span>
+        * [x] [ancestor-descendant](https://github.com/RobertNeat/ancestor-descendant) <span style="color:grey"> 7.2-7.3</span>
         * [ ] [orphan-process]() <span style="color:grey"> 7.4</span>
         * [ ] [zombie-process]() <span style="color:grey"> 7.5</span>
         * [ ] [waiting-ancestor]() <span style="color:grey"> 7.7</span>
