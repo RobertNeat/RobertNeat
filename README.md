@@ -2,7 +2,7 @@
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [x] [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
     * [x] [number-to-graph](https://github.com/RobertNeat/number-to-graph) (AWK) <span style="color:grey"> 4.7</span>
-    * [ ] [number-to-polynomial]() (SED/AWK) <span style="color:grey"> 4.8</span>
+    * [x] [number-to-polynomial](https://github.com/RobertNeat/number-to-polynomial) (SED/AWK) <span style="color:grey"> 4.8</span>
 1. [ ] [The-Beatles]() (Makefile) <span style="color:grey">Lab 5 (5.2-5.7)</span>
 1. [ ] [hello-world-makefile]() <span style="color:grey">Lab 6</span>
 1. Multi process communication: <span style="color:grey">Lab 7</span>
