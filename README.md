@@ -7,7 +7,7 @@
 1. [x] [hello-world-makefile](https://github.com/RobertNeat/hello-world-makefile) <span style="color:grey">Lab 6</span>
 1. Multi process communication: <span style="color:grey">Lab 7</span>
     * PART 1:
-        * [ ] [fork-function]() <span style="color:grey"> 7.1</span>
+        * [x] [fork-function](https://github.com/RobertNeat/fork-function) <span style="color:grey"> 7.1</span>
         * [ ] [ancestor-descendant]() <span style="color:grey"> 7.2-7.3</span>
         * [ ] [orphan-process]() <span style="color:grey"> 7.4</span>
         * [ ] [zombie-process]() <span style="color:grey"> 7.5</span>
