@@ -4,7 +4,7 @@
     * [x] [number-to-graph](https://github.com/RobertNeat/number-to-graph) (AWK) <span style="color:grey"> 4.7</span>
     * [x] [number-to-polynomial](https://github.com/RobertNeat/number-to-polynomial) (SED/AWK) <span style="color:grey"> 4.8</span>
 1. [x] [The-Beatles](https://github.com/RobertNeat/The-Beatles) (Makefile) <span style="color:grey">Lab 5 (5.2-5.7)</span>
-1. [ ] [hello-world-makefile]() <span style="color:grey">Lab 6</span>
+1. [x] [hello-world-makefile](https://github.com/RobertNeat/hello-world-makefile) <span style="color:grey">Lab 6</span>
 1. Multi process communication: <span style="color:grey">Lab 7</span>
     * PART 1:
         * [ ] [fork-function]() <span style="color:grey"> 7.1</span>
