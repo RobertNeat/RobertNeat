@@ -17,7 +17,7 @@ Table of contents:
         * [x] [orphan-process](https://github.com/RobertNeat/orphan-process) <span style="color:grey"> 7.4</span>
         * [x] [zombie-process](https://github.com/RobertNeat/zombie-process) <span style="color:grey"> 7.5</span>
         * [x] [waiting-ancestor](https://github.com/RobertNeat/waiting-ancestor) <span style="color:grey"> 7.7</span>
-        * [ ] [random-exit-status]() <span style="color:grey"> 7.8</span>
+        * [x] [random-exit-status](https://github.com/RobertNeat/random-exit-status) <span style="color:grey"> 7.8</span>
         * [ ] [system-functions]() <span style="color:grey"> 7.9</span>
 1. Exit codes: <span style="color:grey">Lab 7</span>
     * PART 2:
