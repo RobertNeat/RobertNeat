@@ -21,7 +21,7 @@ Table of contents:
         * [x] [system-functions](https://github.com/RobertNeat/system-functions) <span style="color:grey"> 7.9</span>
 1. Exit codes: <span style="color:grey">Lab 7</span>
     * PART 2:
-        * [ ] [signals-sigint-sigquit]() <span style="color:grey"> 7.15</span>
+        * [x] [signals-sigint-sigquit](https://github.com/RobertNeat/signals-sigint-sigquit) <span style="color:grey"> 7.15</span>
         * [ ] [ancestor-active-wait-for-descendant]() <span style="color:grey"> 7.16</span>
     * PART 3:
         * [ ] [client-server-programs]() (popen)<span style="color:grey"> 7.18</span>
