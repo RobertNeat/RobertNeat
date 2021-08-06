@@ -15,7 +15,7 @@ Table of contents:
         * [x] [fork-function](https://github.com/RobertNeat/fork-function) <span style="color:grey"> 7.1</span>
         * [x] [ancestor-descendant](https://github.com/RobertNeat/ancestor-descendant) <span style="color:grey"> 7.2-7.3</span>
         * [x] [orphan-process](https://github.com/RobertNeat/orphan-process) <span style="color:grey"> 7.4</span>
-        * [ ] [zombie-process]() <span style="color:grey"> 7.5</span>
+        * [x] [zombie-process](https://github.com/RobertNeat/zombie-process) <span style="color:grey"> 7.5</span>
         * [ ] [waiting-ancestor]() <span style="color:grey"> 7.7</span>
         * [ ] [random-exit-status]() <span style="color:grey"> 7.8</span>
         * [ ] [system-functions]() <span style="color:grey"> 7.9</span>
