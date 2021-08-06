@@ -1,3 +1,7 @@
+[OS - 2sem](https://github.com/RobertNeat#operating-systems-linux--c)
+[DS - 2sem](https://github.com/RobertNeat#data-structures-c)
+[OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
+
 # Operating systems (Linux / C):
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [x] [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
