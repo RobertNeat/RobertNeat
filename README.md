@@ -27,7 +27,7 @@ Table of contents:
         * [X] [client-server-programs](https://github.com/RobertNeat/client-server-programs) (popen)<span style="color:grey"> 7.18</span>
 1. FIFO multiprocess communication: <span style="color:grey">Lab 7</span>
     * PART 3:
-        * [ ] [single(ancestor-descendant)-FIFO_file]() <span style="color:grey"> 7.21</span>
+        * [x] [single(ancestor-descendant)-FIFO_file](https://github.com/RobertNeat/single-ancestor-descendant--FIFO_file) <span style="color:grey"> 7.21</span>
         * [ ] [multi(ancestor-descendant)-FIFO_file]() <span style="color:grey"> 7.22</span>
         * [ ] [multi(ancestor-descendant)-FIFO_file-NonBlock]() <span style="color:grey"> 7.23</span>
 1. [ ] [Apollo-message-queue]() <span style="color:grey">Lab 7</span>
