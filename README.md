@@ -24,7 +24,7 @@ Table of contents:
         * [x] [signals-sigint-sigquit](https://github.com/RobertNeat/signals-sigint-sigquit) <span style="color:grey"> 7.15</span>
         * [x] [ancestor-active-wait-for-descendant](https://github.com/RobertNeat/ancestor-active-wait-for-descendant) <span style="color:grey"> 7.16</span>
     * PART 3:
-        * [ ] [client-server-programs]() (popen)<span style="color:grey"> 7.18</span>
+        * [X] [client-server-programs](https://github.com/RobertNeat/client-server-programs) (popen)<span style="color:grey"> 7.18</span>
 1. FIFO multiprocess communication: <span style="color:grey">Lab 7</span>
     * PART 3:
         * [ ] [single(ancestor-descendant)-FIFO_file]() <span style="color:grey"> 7.21</span>
