@@ -22,7 +22,7 @@ Table of contents:
 1. Exit codes: <span style="color:grey">Lab 7</span>
     * PART 2:
         * [x] [signals-sigint-sigquit](https://github.com/RobertNeat/signals-sigint-sigquit) <span style="color:grey"> 7.15</span>
-        * [ ] [ancestor-active-wait-for-descendant]() <span style="color:grey"> 7.16</span>
+        * [x] [ancestor-active-wait-for-descendant](https://github.com/RobertNeat/ancestor-active-wait-for-descendant) <span style="color:grey"> 7.16</span>
     * PART 3:
         * [ ] [client-server-programs]() (popen)<span style="color:grey"> 7.18</span>
 1. FIFO multiprocess communication: <span style="color:grey">Lab 7</span>
