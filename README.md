@@ -3,6 +3,9 @@ Table of contents:
 * [DS - 2sem](https://github.com/RobertNeat#data-structures-c)
 * [OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
 
+<details>
+   <summary>Operating systems</summary>
+      
 # Operating systems (Linux / C):
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
@@ -33,7 +36,11 @@ Table of contents:
 1. [x] [Apollo-message-queue](https://github.com/RobertNeat/Apollo-message-queue) <span style="color:grey">Lab 7</span>
 - [ ] [Disc-usage-monitor]() <span style="color:grey">Zaliczeniowe_1 </span>
 - [ ] [Calculate-cube/square-makefile]() <span style="color:grey">Zaliczeniowe_2 </span>
+</details>
 
+<details>
+   <summary>Data structures</summary>
+   
 # Data structures (C++):
 1. 
 1. 
@@ -55,7 +62,11 @@ Table of contents:
 1. 
 1. 
 1. 
+   </details>
 
+<details>
+   <summary>Object-oriented programming</summary>
+   
 # Object-oriented programming (C++):
 1. 
 1. 
@@ -77,7 +88,7 @@ Table of contents:
 1. 
 1. 
 1. 
-
+</details>
 
 <!--<input type="checkbox" disabled />-->
 <!--<input type="checkbox" checked />-->
