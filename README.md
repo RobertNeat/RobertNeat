@@ -1,5 +1,5 @@
 Table of contents:
-* [OS - 2sem](https://github.com/RobertNeat#operating-systems-(linux-/-c))
+* [OS - 2sem](https://github.com/RobertNeat#operating-systems-linux--c)
 * [DS - 2sem](https://github.com/RobertNeat#data-structures-c)
 * [OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
 
