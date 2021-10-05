@@ -35,7 +35,7 @@ Table of contents:
         * [multi(ancestor-descendant)-FIFO_file-NonBlock](https://github.com/RobertNeat/multi-ancestor-descendant--FIFO_file-NonBlock) <span style="color:grey"> 7.23</span>
 1. [x] [Apollo-message-queue](https://github.com/RobertNeat/Apollo-message-queue) <span style="color:grey">Lab 7</span>
 - [x] [Disc-usage-monitor](https://github.com/RobertNeat/Disc-usage-monitor) <span style="color:grey">Zaliczeniowe_1 </span>
-- [ ] [Calculate-cube/square-makefile]() <span style="color:grey">Zaliczeniowe_2 </span>
+- [x] [Calculate-cube/square-makefile](https://github.com/RobertNeat/Calculate-cube-square-makefile) <span style="color:grey">Zaliczeniowe_2 </span>
 </details>
 
 <details>
