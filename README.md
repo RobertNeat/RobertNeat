@@ -4,7 +4,7 @@ Table of contents:
 * [OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
 
 <details>
-   <summary>Operating systems</summary>
+   <summary>Operating systems (full)</summary>
       
 # Operating systems (Linux / C): 
 1. Bash scripts: <span style="color:grey">Lab 4</span>
@@ -39,7 +39,7 @@ Table of contents:
 </details>
 
 <details>
-   <summary>Data structures</summary>
+   <summary>Data structures (empty)</summary>
    
 # Data structures (C++): 
 1. 
@@ -65,7 +65,7 @@ Table of contents:
    </details>
 
 <details>
-   <summary>Object-oriented programming</summary>
+   <summary>Object-oriented programming (empty)</summary>
    
 # Object-oriented programming (C++): 
 1. 
