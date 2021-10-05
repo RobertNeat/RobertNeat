@@ -6,7 +6,7 @@ Table of contents:
 <details>
    <summary>Operating systems</summary>
       
-# Operating systems (Linux / C):
+# Operating systems (Linux / C): 
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
     * [number-to-graph](https://github.com/RobertNeat/number-to-graph) (AWK) <span style="color:grey"> 4.7</span>
@@ -41,7 +41,7 @@ Table of contents:
 <details>
    <summary>Data structures</summary>
    
-# Data structures (C++):
+# Data structures (C++): 
 1. 
 1. 
 1. 
@@ -67,7 +67,7 @@ Table of contents:
 <details>
    <summary>Object-oriented programming</summary>
    
-# Object-oriented programming (C++):
+# Object-oriented programming (C++): 
 1. 
 1. 
 1. 
