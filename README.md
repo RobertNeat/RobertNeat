@@ -42,7 +42,8 @@ Table of contents:
    <summary>Data structures (empty)</summary>
    
 # Data structures (C++): 
-1. 
+1. Pointer arrays (one-dimensional, tow-dimensional):
+    * [pointer-arrays]()
 1. 
 1. 
 1. 
