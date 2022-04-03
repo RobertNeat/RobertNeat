@@ -43,7 +43,7 @@ Table of contents:
    
 # Data structures (C++): 
 1. Pointer arrays (one-dimensional, tow-dimensional):
-    * [pointer-arrays]()
+    * [pointer-arrays](https://github.com/RobertNeat/pointer-arrays)
 1. 
 1. 
 1. 
