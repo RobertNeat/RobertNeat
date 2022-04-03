@@ -44,7 +44,8 @@ Table of contents:
 # Data structures (C++): 
 1. Pointer arrays (one-dimensional, tow-dimensional):
     * [pointer-arrays](https://github.com/RobertNeat/pointer-arrays)
-1. 
+1. Sorting algorithms (BubbleSort, InsertSort, SelectSort):
+    * [sort-algorithms](https://github.com/RobertNeat/sort-algorithms)
 1. 
 1. 
 1. 
