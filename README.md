@@ -48,7 +48,8 @@ Table of contents:
     * [sort-algorithms](https://github.com/RobertNeat/sort-algorithms)
 1. QuickSort algorithm:
     * [quicksort](https://github.com/RobertNeat/quicksort)
-1. 
+1. Flag algorithms (polish,french):
+    * [polish-french-algorithm](https://github.com/RobertNeat/polish-french-algorithm)
 1. 
 1. 
 1. 
