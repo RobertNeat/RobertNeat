@@ -3,8 +3,8 @@ Table of contents:
 * [DS - 2sem](https://github.com/RobertNeat#data-structures-c)
 * [OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
 
-<details>
-   <summary>Operating systems (full)</summary>
+<!--<details>-->
+   <!--<summary>Operating systems (full)</summary>-->
       
 # Operating systems (Linux / C): 
 1. Bash scripts: <span style="color:grey">Lab 4</span>
@@ -38,8 +38,8 @@ Table of contents:
 - [x] [Calculate-cube/square-makefile](https://github.com/RobertNeat/Calculate-cube-square-makefile) <span style="color:grey">Zaliczeniowe_2 </span>
 </details>
 
-<details>
-   <summary>Data structures (empty)</summary>
+<!--<details>-->
+   <!--<summary>Data structures (empty)</summary>-->
    
 # Data structures (C++): 
 1. Pointer arrays (one-dimensional, tow-dimensional):
@@ -68,10 +68,10 @@ Table of contents:
 1. 
 1. 
 1. 
-   </details>
+  <!-- </details>-->
 
-<details>
-   <summary>Object-oriented programming (empty)</summary>
+<!--<details>-->
+  <!-- <summary>Object-oriented programming (empty)</summary>-->
    
 # Object-oriented programming (C++): 
 1. 
@@ -94,7 +94,7 @@ Table of contents:
 1. 
 1. 
 1. 
-</details>
+<!--</details>-->
 
 <!--<input type="checkbox" disabled />-->
 <!--<input type="checkbox" checked />-->
