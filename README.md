@@ -50,7 +50,8 @@ Table of contents:
     * [quicksort](https://github.com/RobertNeat/quicksort)
 1. Flag algorithms (polish,french):
     * [polish-french-algorithm](https://github.com/RobertNeat/polish-french-algorithm)
-1. 
+1. Text pattern search algorithms (Knuth-Morris-Pratt algorithm):
+    * [text-search-KMP](https://github.com/RobertNeat/text-search-KMP)
 1. 
 1. 
 1. 
