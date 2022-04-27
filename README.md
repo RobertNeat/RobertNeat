@@ -54,7 +54,8 @@ Table of contents:
     * [text-search-KMP](https://github.com/RobertNeat/text-search-KMP)
 1. Text hash functions(Rabin–Karp algorithm):
     * [hash-function](https://github.com/RobertNeat/hash-function)
-1. 
+1. Search information in set (linear search, bisectional search):
+    * [linear-bisectional-search](https://github.com/RobertNeat/linear-bisectional-search)
 1. 
 1. 
 1. 
