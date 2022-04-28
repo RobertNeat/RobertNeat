@@ -59,10 +59,8 @@ Table of contents:
 1. Stack implementation:
     * [stack-basic](https://github.com/RobertNeat/stack-implementation)
     * [stack-reverse](https://github.com/RobertNeat/stack-reverse)
-
-3. 
-4. 
-5. 
+1. Queue implementation:
+    * [queue](https://github.com/RobertNeat/queue)
 6. 
 7. 
 8. 
@@ -72,6 +70,7 @@ Table of contents:
 12. 
 13. 
 14. 
+15. 
   <!-- </details>-->
 
 <!--<details>-->
