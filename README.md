@@ -58,6 +58,7 @@ Table of contents:
     * [linear-bisectional-search](https://github.com/RobertNeat/linear-bisectional-search)
 1. Stack implementation:
     * [stack-basic](https://github.com/RobertNeat/stack-implementation)
+    * [stack-reverse](https://github.com/RobertNeat/stack-reverse)
 
 3. 
 4. 
