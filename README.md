@@ -56,19 +56,21 @@ Table of contents:
     * [hash-function](https://github.com/RobertNeat/hash-function)
 1. Search information in set (linear search, bisectional search):
     * [linear-bisectional-search](https://github.com/RobertNeat/linear-bisectional-search)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Stack implementation:
+    * [stack-basic](https://github.com/RobertNeat/stack-implementation)
+
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
   <!-- </details>-->
 
 <!--<details>-->
