@@ -61,7 +61,8 @@ Table of contents:
     * [stack-reverse](https://github.com/RobertNeat/stack-reverse)
 1. Queue implementation:
     * [queue](https://github.com/RobertNeat/queue)
-6. 
+1. One way list:
+    * [one-way-list](https://github.com/RobertNeat/one-way-list)
 7. 
 8. 
 9. 
