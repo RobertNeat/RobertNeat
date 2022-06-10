@@ -1,3 +1,10 @@
+# Bigger projects:
+ - System Operacyjny (projekt w QtCreator - C++):
+ //////
+ - Multi page webste using Bootstrap:
+ https://github.com/RobertNeat/City_Gardeners
+ 
+
 Table of contents:
 * [OS - 2sem](https://github.com/RobertNeat#operating-systems-linux--c)
 * [DS - 2sem](https://github.com/RobertNeat#data-structures-c)
