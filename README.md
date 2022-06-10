@@ -1,6 +1,6 @@
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
- //////
+ https://github.com/RobertNeat/Operating-System
  - Multi page webste using Bootstrap:
  https://github.com/RobertNeat/City_Gardeners
  
