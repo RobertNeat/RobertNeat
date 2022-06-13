@@ -70,7 +70,8 @@ Table of contents:
     * [queue](https://github.com/RobertNeat/queue)
 1. One way list:
     * [one-way-list](https://github.com/RobertNeat/one-way-list)
-7. 
+1. Two way list:
+    * [two-way-list](https://github.com/RobertNeat/two-way-list)
 8. 
 9. 
 10. 
