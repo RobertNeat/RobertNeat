@@ -72,14 +72,8 @@ Table of contents:
     * [one-way-list](https://github.com/RobertNeat/one-way-list)
 1. Two way list:
     * [two-way-list](https://github.com/RobertNeat/two-way-list)
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+1. BST tree
+    * [bst-tree](https://github.com/RobertNeat/bst-tree)
   <!-- </details>-->
 
 <!--<details>-->
