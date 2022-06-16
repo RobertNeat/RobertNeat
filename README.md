@@ -72,7 +72,7 @@ Table of contents:
     * [one-way-list](https://github.com/RobertNeat/one-way-list)
 1. Two way list:
     * [two-way-list](https://github.com/RobertNeat/two-way-list)
-1. BST tree
+1. BST tree:
     * [bst-tree](https://github.com/RobertNeat/bst-tree)
   <!-- </details>-->
 
@@ -80,26 +80,28 @@ Table of contents:
   <!-- <summary>Object-oriented programming (empty)</summary>-->
    
 # Object-oriented programming (C++): 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. C/ C++ differences:
+    * <s>[c-cpp-differences]()</s>
+1. Class and object:
+    * <s>[class-object]()</s>
+1. Class methods (variable, pointer, reference):
+    * <s>[class-methods]()</s>
+1. Class memebers and method parameters (this pointer):
+    * <s>[class-members-parameters]()</s>
+1. Hermetization, inheritance:
+    * <s>[hermetization-inheritance]()</s>
+1. Polymorphism:
+    * <s>[polymorphism]()</s>
+1. Class - object relation:
+    * <s>[class-object-relation]()</s>
+1. Befriended classes:
+    * <s>[befriended-classes]()</s>
+1. Operator overloading:
+    * <s>[operator-overloading]()</s>
+1. QT library:
+    * <s>[QT-library]()</s>
+1. Class templates, STL library:
+    * <s>[class-templates]()</s>
 <!--</details>-->
 
 <!--<input type="checkbox" disabled />-->
