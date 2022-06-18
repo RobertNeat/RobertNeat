@@ -81,7 +81,7 @@ Table of contents:
    
 # Object-oriented programming (C++): 
 1. C/ C++ differences:
-    * <s>[c-cpp-differences]()</s>
+    * [c-cpp-differences](https://github.com/RobertNeat/c-cpp-differences)
 1. Class and object:
     * <s>[class-object]()</s>
 1. Class methods (variable, pointer, reference):
