@@ -83,7 +83,7 @@ Table of contents:
 1. C/ C++ differences:
     * [c-cpp-differences](https://github.com/RobertNeat/c-cpp-differences)
 1. Class and object:
-    * <s>[class-object]()</s>
+    * [class-object](https://github.com/RobertNeat/class-object)
 1. Class methods (variable, pointer, reference):
     * <s>[class-methods]()</s>
 1. Class memebers and method parameters (this pointer):
