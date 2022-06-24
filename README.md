@@ -85,7 +85,7 @@ Table of contents:
 1. Class and object:
     * [class-object](https://github.com/RobertNeat/class-object)
 1. Class methods (variable, pointer, reference):
-    * <s>[class-methods]()</s>
+    * [class-methods](https://github.com/RobertNeat/class-methods)
 1. Class memebers and method parameters (this pointer):
     * <s>[class-members-parameters]()</s>
 1. Hermetization, inheritance:
