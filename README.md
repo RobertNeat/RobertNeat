@@ -89,7 +89,7 @@ Table of contents:
 1. Class memebers and method parameters (this pointer):
     * [class-members-parameters](https://github.com/RobertNeat/class-members-parameters)
 1. Hermetization, inheritance:
-    * <s>[hermetization-inheritance]()</s>
+    * [hermetization-inheritance](https://github.com/RobertNeat/hermetization-inheritance)
 1. Polymorphism:
     * <s>[polymorphism]()</s>
 1. Class - object relation:
