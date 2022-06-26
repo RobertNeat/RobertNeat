@@ -91,7 +91,7 @@ Table of contents:
 1. Hermetization, inheritance:
     * [hermetization-inheritance](https://github.com/RobertNeat/hermetization-inheritance)
 1. Polymorphism:
-    * <s>[polymorphism]()</s>
+    * [polymorphism](https://github.com/RobertNeat/polymorphism)
 1. Class - object relation:
     * <s>[class-object-relation]()</s>
 1. Befriended classes:
