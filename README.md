@@ -93,7 +93,7 @@ Table of contents:
 1. Polymorphism:
     * [polymorphism](https://github.com/RobertNeat/polymorphism)
 1. Class - object relation:
-    * <s>[class-object-relation]()</s>
+    * [class-object-relation](https://github.com/RobertNeat/class-object-relation)
 1. Befriended classes:
     * <s>[befriended-classes]()</s>
 1. Operator overloading:
