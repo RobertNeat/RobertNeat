@@ -97,7 +97,7 @@ Table of contents:
 1. Befriended classes:
     * [befriended-classes](https://github.com/RobertNeat/befriended-classes)
 1. Operator overloading:
-    * <s>[operator-overloading](https://github.com/RobertNeat/operator-overloading)</s>
+    * [operator-overloading](https://github.com/RobertNeat/operator-overloading)
 1. QT library:
     * <s>[QT-library]()</s>
 1. Class templates, STL library:
