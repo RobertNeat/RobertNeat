@@ -95,7 +95,7 @@ Table of contents:
 1. Class - object relation:
     * [class-object-relation](https://github.com/RobertNeat/class-object-relation)
 1. Befriended classes:
-    * <s>[befriended-classes]()</s>
+    * [befriended-classes](https://github.com/RobertNeat/befriended-classes)
 1. Operator overloading:
     * <s>[operator-overloading]()</s>
 1. QT library:
