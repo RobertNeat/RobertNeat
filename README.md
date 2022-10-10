@@ -98,10 +98,6 @@ Table of contents:
     * [befriended-classes](https://github.com/RobertNeat/befriended-classes)
 1. Operator overloading:
     * [operator-overloading](https://github.com/RobertNeat/operator-overloading)
-1. QT library:
-    * <s>[QT-library]()</s>
-1. Class templates, STL library:
-    * <s>[class-templates]()</s>
 <!--</details>-->
 
 <!--<input type="checkbox" disabled />-->
