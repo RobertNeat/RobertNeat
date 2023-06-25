@@ -110,11 +110,11 @@ Table of contents:
 <table>
  <tr>
   <td>
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/androidstudio.svg" width="200" height="200"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="200" height="200"/>
    <br /><strong>Android Studio</strong>
   </td>
   <td>
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swift.svg" width="200" height="200"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="200" height="200"/>
    <br /><strong>IOS</strong>
   </td>
  </tr>
