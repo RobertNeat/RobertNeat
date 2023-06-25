@@ -120,3 +120,6 @@ Table of contents:
   </td>
  </tr>
 </table>
+
+<!--https://simpleicons.org/?q=swiftui-->
+<!--[https://simpleicons.org/?q=swiftui](https://github.com/simple-icons/simple-icons/blob/master/slugs.md)https://github.com/simple-icons/simple-icons/blob/master/slugs.md-->
