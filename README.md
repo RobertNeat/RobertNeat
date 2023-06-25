@@ -104,3 +104,18 @@ Table of contents:
 
 <!--<input type="checkbox" disabled />-->
 <!--<input type="checkbox" checked />-->
+
+
+# Platform projects
+<table>
+ <tr>
+  <td>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/androidstudio.svg" width="200" height="200"/>
+   <br /><strong>Android Studio</strong>
+  </td>
+  <td>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swift.svg" width="200" height="200"/>
+   <br /><strong>IOS</strong>
+  </td>
+ </tr>
+</table>
