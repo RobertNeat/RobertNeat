@@ -110,7 +110,8 @@ Table of contents:
 <table>
  <tr>
   <td align="center">
-   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="150" height="150"/>](https://github.com/RobertNeat/Average_app)
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="150" height="150"/>
+   https://github.com/RobertNeat/Android_projects
    <br /><strong>Android Studio</strong>
   </td>
   <td align="center">
