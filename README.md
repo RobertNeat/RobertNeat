@@ -111,8 +111,7 @@ Table of contents:
  <tr>
   <td align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="150" height="150"/><br/>
-   https://github.com/RobertNeat/Android_projects
-   <br /><strong>Android Studio</strong>
+   <br /><strong>![Android Studio](https://github.com/RobertNeat/Android_projects)</strong>
   </td>
   <td align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="150" height="150"/>
