@@ -109,11 +109,11 @@ Table of contents:
 # Platform projects
 <table>
  <tr>
-  <td>
+  <td align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="150" height="150"/>
    <br /><strong>Android Studio</strong>
   </td>
-  <td>
+  <td align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="150" height="150"/>
    <br /><strong>IOS</strong>
   </td>
