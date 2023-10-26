@@ -106,6 +106,19 @@ Table of contents:
 <!--<input type="checkbox" checked />-->
 
 
+
+# Semester 5:
+...
+
+
+# Semester 6:
+...
+
+# Semester 7:
+ - .NET - https://github.com/RobertNeat/dotnet-project-list
+ - SALESFORCE - ...
+ - Java - ...
+
 # Platform projects
 <table>
  <tr>
