@@ -114,6 +114,8 @@ Table of contents:
 # Semester 6:
 ...
 
+[😏](https://github.com/RobertNeat/dotnet-project-list)
+
 # Semester 7:
  - .NET - https://github.com/RobertNeat/dotnet-project-list
  - SALESFORCE - ...
