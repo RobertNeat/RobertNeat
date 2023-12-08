@@ -154,6 +154,7 @@ Table of contents:
 <img src="https://raw.githubusercontent.com/RobertNeat/programming_icons/main/net_icon.png?token=GHSAT0AAAAAACJPFTVC743P5NHDJ7DT72IOZLTPMYQ" width="100px" height="100px"/>
 
 1. Image uploading app that adds watermarks to them before saving
+
 [image_upload_watermark](https://github.com/RobertNeat/image_upload_watermark)
 
 <!--https://simpleicons.org/?q=swiftui-->
