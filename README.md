@@ -157,11 +157,11 @@ Table of contents:
 
 [image_upload_watermark](https://github.com/RobertNeat/image_upload_watermark)
 
-1. Movie list app that stores the data in relational database using ORM
+2. Movie list app that stores the data in relational database using ORM
 
 [movie_list](https://github.com/RobertNeat/movie_list)
 
-1. Fox list with identity and JWT security
+3. Fox list with identity and JWT security
 
 [identity_rest_api](https://github.com/RobertNeat/identity_rest_api)
 
