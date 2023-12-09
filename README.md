@@ -141,6 +141,11 @@ Table of contents:
 </table>
 
 <!--Lepsze repo:--->
+
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> # Express
+
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> # React
+
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/swift_icon.png" width="100px" height="100px"/> # Swift
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
