@@ -117,7 +117,6 @@ Table of contents:
 [😏](https://github.com/RobertNeat/dotnet-project-list)
 
 # Semester 7:
- - .NET - https://github.com/RobertNeat/dotnet-project-list
  - SALESFORCE - ...
  - Java - ...
 
