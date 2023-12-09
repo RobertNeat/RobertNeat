@@ -151,7 +151,7 @@ Table of contents:
 </table>
 
 <!--Lepsze repo:--->
-<img src="https://raw.githubusercontent.com/RobertNeat/programming_icons/main/net_icon.png?token=GHSAT0AAAAAACJPFTVC743P5NHDJ7DT72IOZLTPMYQ" width="100px" height="100px"/>
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/>
 
 1. Image uploading app that adds watermarks to them before saving
 
