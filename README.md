@@ -144,6 +144,8 @@ Table of contents:
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/algorithm_icon.png" width="100px" height="100px"/> # Algorithms
 
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/ai_icon.png" width="100px" height="100px"/> # Machine learning
+
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> # Express
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> # React
