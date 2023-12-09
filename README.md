@@ -138,15 +138,6 @@ Table of contents:
    https://github.com/RobertNeat/java-project-list
    <br /><strong>Java</strong>
 </td>
-  <td>
-   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="150" height="150"/><br/>
-   https://github.com/RobertNeat/dotnet-project-list
-   <br /><strong>Dot Net (C#)</strong>
-
-
-   
-  </td>
  </tr>
 </table>
 
