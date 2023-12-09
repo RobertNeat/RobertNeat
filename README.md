@@ -142,9 +142,9 @@ Table of contents:
 
 <!--Lepsze repo:--->
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> Android
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> .NET
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
 
 1. Image uploading app that adds watermarks to them before saving
 
