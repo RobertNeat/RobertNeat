@@ -7,14 +7,7 @@
  https://github.com/RobertNeat/BookStore
  
 
-Table of contents:
-* [OS - 2sem](https://github.com/RobertNeat#operating-systems-linux--c)
-* [DS - 2sem](https://github.com/RobertNeat#data-structures-c)
-* [OOP - 2sem](https://github.com/RobertNeat#object-oriented-programming-c)
-
-<!--<details>-->
-   <!--<summary>Operating systems (full)</summary>-->
-      
+<!--
 # Operating systems (Linux / C): 
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
@@ -45,41 +38,12 @@ Table of contents:
 1. [x] [Apollo-message-queue](https://github.com/RobertNeat/Apollo-message-queue) <span style="color:grey">Lab 7</span>
 - [x] [Disc-usage-monitor](https://github.com/RobertNeat/Disc-usage-monitor) <span style="color:grey">Zaliczeniowe_1 </span>
 - [x] [Calculate-cube/square-makefile](https://github.com/RobertNeat/Calculate-cube-square-makefile) <span style="color:grey">Zaliczeniowe_2 </span>
-</details>
 
-<!--<details>-->
-   <!--<summary>Data structures (empty)</summary>-->
+
    
 # Data structures (C++): 
-1. Pointer arrays (one-dimensional, tow-dimensional):
-    * [pointer-arrays](https://github.com/RobertNeat/pointer-arrays)
-1. Sorting algorithms (BubbleSort, InsertSort, SelectSort):
-    * [sort-algorithms](https://github.com/RobertNeat/sort-algorithms)
-1. QuickSort algorithm:
-    * [quicksort](https://github.com/RobertNeat/quicksort)
-1. Flag algorithms (polish,french):
-    * [polish-french-algorithm](https://github.com/RobertNeat/polish-french-algorithm)
-1. Text pattern search algorithms (Knuth-Morris-Pratt algorithm):
-    * [text-search-KMP](https://github.com/RobertNeat/text-search-KMP)
-1. Text hash functions(Rabin–Karp algorithm):
-    * [hash-function](https://github.com/RobertNeat/hash-function)
-1. Search information in set (linear search, bisectional search):
-    * [linear-bisectional-search](https://github.com/RobertNeat/linear-bisectional-search)
-1. Stack implementation:
-    * [stack-basic](https://github.com/RobertNeat/stack-implementation)
-    * [stack-reverse](https://github.com/RobertNeat/stack-reverse)
-1. Queue implementation:
-    * [queue](https://github.com/RobertNeat/queue)
-1. One way list:
-    * [one-way-list](https://github.com/RobertNeat/one-way-list)
-1. Two way list:
-    * [two-way-list](https://github.com/RobertNeat/two-way-list)
-1. BST tree:
-    * [bst-tree](https://github.com/RobertNeat/bst-tree)
-  <!-- </details>-->
+- przeniesione do nowego
 
-<!--<details>-->
-  <!-- <summary>Object-oriented programming (empty)</summary>-->
    
 # Object-oriented programming (C++): 
 1. C/ C++ differences:
@@ -100,10 +64,8 @@ Table of contents:
     * [befriended-classes](https://github.com/RobertNeat/befriended-classes)
 1. Operator overloading:
     * [operator-overloading](https://github.com/RobertNeat/operator-overloading)
-<!--</details>-->
 
-<!--<input type="checkbox" disabled />-->
-<!--<input type="checkbox" checked />-->
+-->
 
 
 
@@ -114,7 +76,8 @@ Table of contents:
 # Semester 6:
 ...
 
-[😏](https://github.com/RobertNeat/dotnet-project-list)
+
+<!--Semetry 1-4 są raczej przeglądnięte-->
 
 # Semester 7:
  - SALESFORCE - ...
@@ -144,6 +107,32 @@ Table of contents:
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/algorithm_icon.png" width="100px" height="100px"/> # Algorithms
 
+1. Pointer arrays (one-dimensional, tow-dimensional):
+[pointer-arrays](https://github.com/RobertNeat/pointer-arrays)
+1. Sorting algorithms (BubbleSort, InsertSort, SelectSort):
+[sort-algorithms](https://github.com/RobertNeat/sort-algorithms)
+1. QuickSort algorithm:
+[quicksort](https://github.com/RobertNeat/quicksort)
+1. Flag algorithms (polish,french):
+[polish-french-algorithm](https://github.com/RobertNeat/polish-french-algorithm)
+1. Text pattern search algorithms (Knuth-Morris-Pratt algorithm):
+[text-search-KMP](https://github.com/RobertNeat/text-search-KMP)
+1. Text hash functions(Rabin–Karp algorithm):
+[hash-function](https://github.com/RobertNeat/hash-function)
+1. Search information in set (linear search, bisectional search):
+[linear-bisectional-search](https://github.com/RobertNeat/linear-bisectional-search)
+1. Stack implementation:
+[stack-basic](https://github.com/RobertNeat/stack-implementation)
+[stack-reverse](https://github.com/RobertNeat/stack-reverse)
+1. Queue implementation:
+[queue](https://github.com/RobertNeat/queue)
+1. One way list:
+[one-way-list](https://github.com/RobertNeat/one-way-list)
+1. Two way list:
+[two-way-list](https://github.com/RobertNeat/two-way-list)
+1. BST tree:
+[bst-tree](https://github.com/RobertNeat/bst-tree)
+
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/ai_icon.png" width="100px" height="100px"/> # Machine learning
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> # Express
@@ -155,14 +144,9 @@ Table of contents:
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
 
 
-<details open>
-   <summary><img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android</summary>
+<img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android
    
- # test
- # test
- # test
 
-</details>
 
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
@@ -181,7 +165,6 @@ Table of contents:
 
 
 <!--https://simpleicons.org/?q=swiftui-->
-<!--[https://simpleicons.org/?q=swiftui](https://github.com/simple-icons/simple-icons/blob/master/slugs.md)https://github.com/simple-icons/simple-icons/blob/master/slugs.md-->
-
-
-<!--https://github.com/devicons/devicon/tree/v2.15.1/icons-->
+<!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
+<!--<input type="checkbox" disabled />-->
+<!--<input type="checkbox" checked />-->
