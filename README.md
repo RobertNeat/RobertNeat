@@ -152,15 +152,10 @@
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
 
 1. Image uploading app that adds watermarks to them before saving
-
 [image_upload_watermark](https://github.com/RobertNeat/image_upload_watermark)
-
-2. Movie list app that stores the data in relational database using ORM
-
+1. Movie list app that stores the data in relational database using ORM
 [movie_list](https://github.com/RobertNeat/movie_list)
-
-3. Fox list with identity and JWT security
-
+1. Fox list with identity and JWT security
 [identity_rest_api](https://github.com/RobertNeat/identity_rest_api)
 
 
