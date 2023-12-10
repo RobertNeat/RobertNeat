@@ -169,7 +169,7 @@ Table of contents:
 
 
 
-<details>
+</details>
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
 
 1. Image uploading app that adds watermarks to them before saving
