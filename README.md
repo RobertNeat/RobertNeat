@@ -154,6 +154,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Downloader_app](https://github.com/RobertNeat/Downloader_app)
 1. Drawing app with animations (motion layout)
 [Drawing_app](https://github.com/RobertNeat/Drawing_app)
+1. Note app API Client
+[...](https://github.com/404)
 
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
