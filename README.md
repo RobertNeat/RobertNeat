@@ -155,21 +155,16 @@ Table of contents:
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
 
 
-<details>
+<details open>
    <summary><img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android</summary>
    
- 
  # test
-
- 
  # test
-
- 
  # test
-
-
 
 </details>
+
+
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> # .NET
 
 1. Image uploading app that adds watermarks to them before saving
