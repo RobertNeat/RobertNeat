@@ -1,3 +1,4 @@
+<!--
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
  https://github.com/RobertNeat/Operating-System
@@ -5,9 +6,8 @@
  https://github.com/RobertNeat/City_Gardeners
  - BookStore application (using Java,MySQL, HTML, CSS,Javascript, with micro services)
  https://github.com/RobertNeat/BookStore
- 
 
-<!--
+ 
 # Operating systems (Linux / C): 
 1. Bash scripts: <span style="color:grey">Lab 4</span>
     * [compact-ifconfig](https://github.com/RobertNeat/compact-ifconfig) (SED/AWK) <span style="color:grey"> 4.6</span>
