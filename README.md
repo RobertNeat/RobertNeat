@@ -140,7 +140,7 @@ Semetry 1-4 są raczej przeglądnięte
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/swift_icon.png" width="100px" height="100px"/> # Swift
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
-
+<!--https://github.com/RobertNeat/hashing-example-->
 
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android
 
