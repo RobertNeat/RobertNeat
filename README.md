@@ -145,12 +145,10 @@ Semetry 1-4 są raczej przeglądnięte
 <!--
 Projekty Java do ogarnięcia:
 priv	https://github.com/RobertNeat/socialhub_api
-
-
-https://github.com/RobertNeat/spring-boot-store
-https://github.com/RobertNeat/store-cli-api
 -->
 
+1. BookStore API with web_client
+[BookStore](https://github.com/RobertNeat/BookStore)
 1. SocialHub REST API
 [socialhub_api](https://github.com/RobertNeat/socialhub_api)
 1. NoteApp REST API
