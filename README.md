@@ -65,9 +65,6 @@
 1. Operator overloading:
     * [operator-overloading](https://github.com/RobertNeat/operator-overloading)
 
--->
-
-
 
 # Semester 5:
 ...
@@ -77,7 +74,7 @@
 ...
 
 
-<!--Semetry 1-4 są raczej przeglądnięte-->
+Semetry 1-4 są raczej przeglądnięte
 
 # Semester 7:
  - SALESFORCE - ...
@@ -91,10 +88,6 @@
    https://github.com/RobertNeat/Android_projects<br/>
    <strong>Android Studio</strong>
   </td>
-  <td align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="150" height="150"/>
-   <br /><strong>IOS</strong>
-  </td>
   <td>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" height="150"/><br/>
    https://github.com/RobertNeat/java-project-list
@@ -102,6 +95,11 @@
 </td>
  </tr>
 </table>
+-->
+
+
+
+
 
 <!--Lepsze repo:--->
 
