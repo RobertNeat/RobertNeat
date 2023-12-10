@@ -187,3 +187,6 @@ priv	https://github.com/RobertNeat/socialhub_api
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
 <!--<input type="checkbox" disabled />-->
 <!--<input type="checkbox" checked />-->
+<!--https://banner.godori.dev/ height:150-->
+<!--https://shields.io/-->
+<!--https://carbon.now.sh/-->
