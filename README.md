@@ -142,6 +142,16 @@ Semetry 1-4 są raczej przeglądnięte
 <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
 <!--https://github.com/RobertNeat/hashing-example-->
 
+<!--
+Projekty Java do ogarnięcia:
+priv	https://github.com/RobertNeat/SocialHub_API_test_driven
+priv	https://github.com/RobertNeat/socialhub_api
+
+
+https://github.com/RobertNeat/spring-boot-store
+https://github.com/RobertNeat/store-cli-api
+-->
+
 1. SocialHub REST API
 [socialhub_api](https://github.com/RobertNeat/socialhub_api)
 1. NoteApp REST API
