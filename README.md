@@ -1,3 +1,8 @@
+<style>
+table, tr, td, th {
+   border: none!important;
+}
+</style>
 
 <!--
 # Bigger projects:
