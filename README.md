@@ -1,8 +1,3 @@
-<style>
-table, tr, td, th {
-   border: none!important;
-}
-</style>
 
 <!--
 # Bigger projects:
@@ -109,7 +104,7 @@ Semetry 1-4 są raczej przeglądnięte
 
 <!--Lepsze repo:--->
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/algorithm_icon.png" width="100px" height="100px"/> # Algorithms
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/algorithm_icon.png" width="100px" height="100px"/> Algorithms
 
 1. Pointer arrays (one-dimensional, tow-dimensional):
 [pointer-arrays](https://github.com/RobertNeat/pointer-arrays)
@@ -137,18 +132,18 @@ Semetry 1-4 są raczej przeglądnięte
 1. BST tree:
 [bst-tree](https://github.com/RobertNeat/bst-tree)
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/ai_icon.png" width="100px" height="100px"/> # Machine learning
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/ai_icon.png" width="100px" height="100px"/> Machine learning
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> # Express
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> # React
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> React
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/swift_icon.png" width="100px" height="100px"/> # Swift
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/swift_icon.png" width="100px" height="100px"/> Swift
 
 1.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> # Java
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> Java
 <!--https://github.com/RobertNeat/hashing-example-->
 
 <!--
@@ -163,7 +158,7 @@ priv	https://github.com/RobertNeat/socialhub_api
 1. NoteApp REST API
 [...](https://github.com/404)
 
-<img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> # Android
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/android_icon.png" width="100px" height="100px"/> Android
 
 1. Average grade calculator app
 [Average_app](https://github.com/RobertNeat/Average_app)
@@ -179,18 +174,7 @@ priv	https://github.com/RobertNeat/socialhub_api
 [...](https://github.com/404)
 
 
-<table border="none!important">
- <th border="none!important">
-  <td border="none!important">
-   <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/>
-  </td>
-  <td border="none!important">
-   
-   # .NET
-   
-  </td>
- </th>
-</table>
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/> .NET
 
 1. Image uploading app that adds watermarks to them before saving
 [image_upload_watermark](https://github.com/RobertNeat/image_upload_watermark)
