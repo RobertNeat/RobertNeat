@@ -1,3 +1,4 @@
+
 <!--
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
@@ -173,12 +174,12 @@ priv	https://github.com/RobertNeat/socialhub_api
 [...](https://github.com/404)
 
 
-<table border="none">
- <th border="none">
-  <td border="none">
+<table border="none!important">
+ <th border="none!important">
+  <td border="none!important">
    <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/>
   </td>
-  <td border="none">
+  <td border="none!important">
    
    # .NET
    
