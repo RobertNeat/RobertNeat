@@ -174,12 +174,14 @@ priv	https://github.com/RobertNeat/socialhub_api
 
 
 <table border="none">
- <th>
-  <td>
+ <th border="none">
+  <td border="none">
    <img src="https://github.com/RobertNeat/programming_icons/blob/main/net_icon.png" width="100px" height="100px"/>
   </td>
-  <td>
+  <td border="none">
+   
    # .NET
+   
   </td>
  </th>
 </table>
