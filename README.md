@@ -148,6 +148,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Colour Shape Drawer](https://github.com/RobertNeat/Colour_shape_drawer)
 4. Drag gesture to chamge circle position
 [Circle Manipulation](https://github.com/RobertNeat/Circle_manipulation)
+5. Image gallery with gesture support 
+[Interactive Gallery](https://github.com/RobertNeat/Interactive_gallery)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
