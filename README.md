@@ -146,7 +146,7 @@ Semetry 1-4 są raczej przeglądnięte
 [Parrot Description](https://github.com/RobertNeat/Parrot_description)
 3. 2D figure drawing using user settings
 [Colour Shape Drawer](https://github.com/RobertNeat/Colour_shape_drawer)
-4. Drag gesture to chamge circle position
+4. Drag gesture to change circle position
 [Circle Manipulation](https://github.com/RobertNeat/Circle_manipulation)
 5. Image gallery with gesture support 
 [Interactive Gallery](https://github.com/RobertNeat/Interactive_gallery)
