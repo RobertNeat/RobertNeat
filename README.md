@@ -142,6 +142,8 @@ Semetry 1-4 są raczej przeglądnięte
 
 1. Components, icons and colour usage in SwiftUI
 [Swift Palette](https://github.com/RobertNeat/Swift_palette)
+2. Image with description over it
+[Parrot Description](https://github.com/RobertNeat/Parrot_description)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
