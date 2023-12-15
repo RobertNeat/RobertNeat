@@ -162,6 +162,8 @@ Semetry 1-4 są raczej przeglądnięte
 [House Market Listings](https://github.com/RobertNeat/House_market_listings)
 11. Dog persistant list using Core Data
 [Dog Persistance List](https://github.com/RobertNeat/Dog_persistance_list)
+12. Map app that shows desired coordination location on map
+[Pinned Map](https://github.com/RobertNeat/Pinned_map)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
