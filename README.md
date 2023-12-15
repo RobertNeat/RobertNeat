@@ -158,6 +158,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Currency Exchange](https://github.com/RobertNeat/Currency_exchange)
 9. Book serach app
 [Search Book List](https://github.com/RobertNeat/Search_book_list)
+10. House list app with dynamic details page
+[House Market Listings](https://github.com/RobertNeat/House_market_listings)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
