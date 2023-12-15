@@ -146,6 +146,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Parrot Description](https://github.com/RobertNeat/Parrot_description)
 3. 2D figure drawing using user settings
 [Colour Shape Drawer](https://github.com/RobertNeat/Colour_shape_drawer)
+4. Drag gesture to chamge circle position
+[Circle Manipulation](https://github.com/RobertNeat/Circle_manipulation)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
