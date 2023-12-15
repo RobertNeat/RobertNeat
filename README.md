@@ -154,6 +154,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Field Validation](https://github.com/RobertNeat/Field_validation)
 7. Arithmetic calculator app
 [Arithmetic Calculator](https://github.com/RobertNeat/Arithmetic_calculator)
+8. Currency exchange app 
+[Currency Exchange](https://github.com/RobertNeat/Currency_exchange)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
