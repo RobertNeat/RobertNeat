@@ -150,6 +150,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Circle Manipulation](https://github.com/RobertNeat/Circle_manipulation)
 5. Image gallery with gesture support 
 [Interactive Gallery](https://github.com/RobertNeat/Interactive_gallery)
+6. Field validation during submit
+[Field Validation](https://github.com/RobertNeat/Field_validation)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
