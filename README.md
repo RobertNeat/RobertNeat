@@ -152,6 +152,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Interactive Gallery](https://github.com/RobertNeat/Interactive_gallery)
 6. Field validation during submit
 [Field Validation](https://github.com/RobertNeat/Field_validation)
+7. Arithmetic calculator app
+[Arithmetic Calculator](https://github.com/RobertNeat/Arithmetic_calculator)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
