@@ -144,6 +144,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Swift Palette](https://github.com/RobertNeat/Swift_palette)
 2. Image with description over it
 [Parrot Description](https://github.com/RobertNeat/Parrot_description)
+3. 2D figure drawing using user settings
+[Colour Shape Drawer](https://github.com/RobertNeat/Colour_shape_drawer)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
