@@ -142,29 +142,29 @@ Semetry 1-4 są raczej przeglądnięte
 
 1. Components, icons and colour usage in SwiftUI
 [Swift Palette](https://github.com/RobertNeat/Swift_palette)
-2. Image with description over it
+1. Image with description over it
 [Parrot Description](https://github.com/RobertNeat/Parrot_description)
-3. 2D figure drawing using user settings
+1. 2D figure drawing using user settings
 [Colour Shape Drawer](https://github.com/RobertNeat/Colour_shape_drawer)
-4. Drag gesture to change circle position
+1. Drag gesture to change circle position
 [Circle Manipulation](https://github.com/RobertNeat/Circle_manipulation)
-5. Image gallery with gesture support 
+1. Image gallery with gesture support 
 [Interactive Gallery](https://github.com/RobertNeat/Interactive_gallery)
-6. Field validation during submit
+1. Field validation during submit
 [Field Validation](https://github.com/RobertNeat/Field_validation)
-7. Arithmetic calculator app
+1. Arithmetic calculator app
 [Arithmetic Calculator](https://github.com/RobertNeat/Arithmetic_calculator)
-8. Currency exchange app 
+1. Currency exchange app 
 [Currency Exchange](https://github.com/RobertNeat/Currency_exchange)
-9. Book serach app
+1. Book serach app
 [Search Book List](https://github.com/RobertNeat/Search_book_list)
-10. House list app with dynamic details page
+1. House list app with dynamic details page
 [House Market Listings](https://github.com/RobertNeat/House_market_listings)
-11. Dog persistant list using Core Data
+1. Dog persistant list using Core Data
 [Dog Persistance List](https://github.com/RobertNeat/Dog_persistance_list)
-12. Map app that shows desired coordination location on map
+1. Map app that shows desired coordination location on map
 [Pinned Map](https://github.com/RobertNeat/Pinned_map)
-13.CookBook app for adding own recipes, check ingredients and cooking steps.
+1.CookBook app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/java_icon.png" width="100px" height="100px"/> Java
