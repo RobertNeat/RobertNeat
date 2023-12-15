@@ -160,6 +160,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Search Book List](https://github.com/RobertNeat/Search_book_list)
 10. House list app with dynamic details page
 [House Market Listings](https://github.com/RobertNeat/House_market_listings)
+11. Dog persistant list using Core Data
+[Dog Persistance List](https://github.com/RobertNeat/Dog_persistance_list)
 
 X.SwiftUI app for adding own recipes, check ingredients and cooking steps.
 [CookBook](https://github.com/RobertNeat/CookBook)
