@@ -136,6 +136,8 @@ Semetry 1-4 są raczej przeglądnięte
 
 1. Linear regression in finding correlation based on BostonHousing and Diabetes dataset
 [Linear_regression](https://github.com/RobertNeat/Linear_regression)
+1. Classification in finding creditworthiness in bank clients
+[Classification](https://github.com/RobertNeat/Classification)
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
