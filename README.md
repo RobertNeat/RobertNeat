@@ -140,7 +140,7 @@ Semetry 1-4 są raczej przeglądnięte
 [Classification](https://github.com/RobertNeat/Classification)
 1. Attribute extraxtion and generation, PCA, ICA, Fourier Analysis
 [Attribute Extraction](https://github.com/RobertNeat/Attribute_extraction)
-<<----DOKOŃCZYĆ
+<<----ZROBIĆ GENDER VOICES
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
