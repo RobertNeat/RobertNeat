@@ -134,6 +134,9 @@ Semetry 1-4 są raczej przeglądnięte
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/ai_icon.png" width="100px" height="100px"/> Machine learning
 
+1. Linear regression in finding correlation based on BostonHousing and Diabetes dataset
+[Linear_regression](https://github.com/RobertNeat/Linear_regression)
+
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> React
