@@ -142,6 +142,8 @@ Semetry 1-4 są raczej przeglądnięte
 [Attribute Extraction](https://github.com/RobertNeat/Attribute_extraction)
 1. Shallow dense neural networks, grid search, randomized search, model overfitting
 [Shallow neural networks](https://github.com/RobertNeat/Shallow_neural_networks)
+1. Convolutional networks for image recognition
+[Convolutional Networks](https://github.com/RobertNeat/Convolutional_Networks)
 <!--przejżane laby 1-5--> *6 jest ogólnym więc nie trzeba
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
