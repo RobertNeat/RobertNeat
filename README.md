@@ -144,8 +144,10 @@ Semetry 1-4 są raczej przeglądnięte
 [Shallow neural networks](https://github.com/RobertNeat/Shallow_neural_networks)
 1. Convolutional networks for image recognition
 [Convolutional Networks](https://github.com/RobertNeat/Convolutional_Networks)
+1. Branched structures in dense graphic neural networks
+[Branched_Structures](https://github.com/RobertNeat/Branched_Structures)
 
-<!--przejżane laby 1-7-->
+<!--przejżane laby 1-8-->
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
