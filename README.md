@@ -146,8 +146,10 @@ Semetry 1-4 są raczej przeglądnięte
 [Convolutional Networks](https://github.com/RobertNeat/Convolutional_Networks)
 1. Branched structures in dense graphic neural networks
 [Branched_Structures](https://github.com/RobertNeat/Branched_Structures)
+1. Autoencoders in graohic networks for image classification, data generation, denoise.
+[Autoencoders](https://github.com/RobertNeat/Autoencoder)
 
-<!--przejżane laby 1-8-->
+<!--przejżane laby 1-9-->
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
 
