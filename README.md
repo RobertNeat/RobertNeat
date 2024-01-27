@@ -197,6 +197,8 @@ priv	https://github.com/RobertNeat/socialhub_api
 [BookStore](https://github.com/RobertNeat/BookStore)
 1. SocialHub REST API
 [socialhub_api](https://github.com/RobertNeat/socialhub_api)
+1. ParrotSocial REST API - with mongodb, jwt
+[ParrotSocial](https://github.com/RobertNeat/ParrotSocial)
 1. NoteApp REST API
 [...](https://github.com/404)
 
