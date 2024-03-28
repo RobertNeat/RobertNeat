@@ -152,8 +152,12 @@ Semetry 1-4 są raczej przeglądnięte
 <!--przejżane laby 1-9-->
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/express_icon.png" width="100px" height="100px"/> Express
+1. Server REST API side portion of Facebook-like social media platform 
+[DogBook](https://github.com/RobertNeat/Dogbook)
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/react_icon.png" width="100px" height="100px"/> React
+1. Client side portion of the Facebook like social media platform
+[DogBook](https://github.com/RobertNeat/Dogbook)
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/swift_icon.png" width="100px" height="100px"/> Swift
 
