@@ -233,7 +233,7 @@ priv	https://github.com/RobertNeat/socialhub_api
 1. Fox list with identity and JWT security
 [identity_rest_api](https://github.com/RobertNeat/identity_rest_api)
 
-# <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> Android
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> ESP_32
 1. Examples with basic electric components
 [lab_1](https://github.com/RobertNeat/iot-LAB_1)
 1. Sensor-air-quality-ENS160---AHT21
