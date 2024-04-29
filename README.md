@@ -233,6 +233,11 @@ priv	https://github.com/RobertNeat/socialhub_api
 1. Fox list with identity and JWT security
 [identity_rest_api](https://github.com/RobertNeat/identity_rest_api)
 
+# <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> Android
+1. Examples with basic electric components
+[lab_1](https://github.com/RobertNeat/iot-LAB_1)
+1. Sensor-air-quality-ENS160---AHT21
+[sensor_readout](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21)
 
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
