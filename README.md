@@ -243,6 +243,8 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 [GC9A01_round_display](https://github.com/RobertNeat/GC9A01_round_display)
 1. Square display ST7789 (TFT_eSPI library)
 [ST7789_square_display](https://github.com/RobertNeat/ST7789_square_display)
+1. Rocket - Asteroid game with display, steering potenciometer and manual button shoting
+[Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
 
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
