@@ -235,16 +235,20 @@ priv	https://github.com/RobertNeat/socialhub_api
 
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> ESP_32
 Schematics for components I own - [ESP_components_images](https://github.com/RobertNeat/ESP_components_images)
-1. Examples with basic electric components
+1. Examples with basic electric components -- to modify
 [lab_1](https://github.com/RobertNeat/iot-LAB_1)
+
+
+1. Round display GC9A01 (TFT_eSPI library) --- to modify
+[GC9A01_round_display](https://github.com/RobertNeat/GC9A01_round_display)
+
 1. Sensor-air-quality-ENS160---AHT21
 [sensor_readout](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21)
-1. Round display GC9A01 (TFT_eSPI library)
-[GC9A01_round_display](https://github.com/RobertNeat/GC9A01_round_display)
 1. Square display ST7789 (TFT_eSPI library)
-[ST7789_square_display](https://github.com/RobertNeat/ST7789_square_display)
+[ST7789_square_display](https://github.com/RobertNeat/ST7789_square_disp)
 1. Rocket - Asteroid game with display, steering potenciometer and manual button shoting
 [Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
+
 
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
