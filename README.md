@@ -246,6 +246,8 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 [sensor_readout](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21)
 1. Rocket - Asteroid game with display, steering potenciometer and manual button shoting
 [Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
+1. Air Station - indoor air quality sensor station
+[Air_Station](https://github.com/RobertNeat/Air-Station)
 
 
 <!--https://simpleicons.org/?q=swiftui-->
