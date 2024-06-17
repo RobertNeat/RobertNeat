@@ -1,4 +1,4 @@
-
+<!--
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
  https://github.com/RobertNeat/Operating-System
