@@ -1,6 +1,4 @@
 
-<!--![PDF_to_slides](https://github.com/RobertNeat/RobertNeat/assets/47086490/9125fa28-9979-4f79-81c0-ad74aa65d46d)
-
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
  https://github.com/RobertNeat/Operating-System
