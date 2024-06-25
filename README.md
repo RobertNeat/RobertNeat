@@ -235,7 +235,7 @@ priv	https://github.com/RobertNeat/socialhub_api
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> ESP_32
 Schematics for components I own - [ESP_components_images](https://github.com/RobertNeat/ESP_components_images)
 
-1. <b style="color:blue;">Rocket - Asteroid game</b> with display, steering potenciometer and manual button shoting
+1. <b>Rocket - Asteroid game</b> with display, steering potenciometer and manual button shoting
 [Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
 1. Examples with basic electric components -- to modify
 [lab_1](https://github.com/RobertNeat/iot-LAB_1)
