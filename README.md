@@ -235,6 +235,8 @@ priv	https://github.com/RobertNeat/socialhub_api
 # <img src="https://github.com/RobertNeat/programming_icons/blob/main/esp_icon.png" width="100px" height="100px"/> ESP_32
 Schematics for components I own - [ESP_components_images](https://github.com/RobertNeat/ESP_components_images)
 
+1. <b>Rocket - Asteroid game</b> with display, steering potenciometer and manual button shoting
+[Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
 1. Examples with basic electric components -- to modify
 [lab_1](https://github.com/RobertNeat/iot-LAB_1)
 1. Square display ST7789 (TFT_eSPI library)
@@ -243,8 +245,6 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 [GC9A01_round_display](https://github.com/RobertNeat/GC9A01_round_disp)
 1. Sensor-air-quality-ENS160---AHT21
 [sensor_readout](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21)
-1. Rocket - Asteroid game with display, steering potenciometer and manual button shoting
-[Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
 1. Air Station - indoor air quality sensor station
 [Air_Station](https://github.com/RobertNeat/Air-Station)
 
