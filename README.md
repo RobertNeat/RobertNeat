@@ -248,6 +248,26 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 1. Air Station - indoor air quality sensor station
 [Air_Station](https://github.com/RobertNeat/Air-Station)
 
+## M5 Stack:
+
+1. Examples: Unit OLED (SH1107)
+
+- [Black-white Oled basic](https://github.com/RobertNeat/M5_Atom)
+- [Bubbles colliding](https://github.com/RobertNeat/M5_Stack_Bubbles)
+
+1. TOF Sensor:
+
+- [Basic distance measurement](https://github.com/RobertNeat/M5_Stack_TOF_distance)
+- [Overhead height measurement](https://github.com/RobertNeat/M5_Stack_TOF_overhead)
+
+1. WiFi communication:
+
+- [Ip discovery](https://github.com/RobertNeat/M5_Stack_WiFi_Sender)
+
+1. UnitV2 AI camera:
+
+- [Receive Uart data](https://github.com/RobertNeat/M5_Stack_Atom_receive_AiCameraData)
+
 
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
