@@ -270,7 +270,7 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 
 1. Unit CamS3 camera:
 
--[Hotspot and respond with image](https://github.com/RobertNeat/M5_cam_unit_webphotobooth)
+- [Hotspot and respond with image](https://github.com/RobertNeat/M5_cam_unit_webphotobooth)
 
 
 <!--https://simpleicons.org/?q=swiftui-->
