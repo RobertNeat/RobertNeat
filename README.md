@@ -268,6 +268,10 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 
 - [Receive Uart data](https://github.com/RobertNeat/M5_Stack_Atom_receive_AiCameraData)
 
+1. Unit CamS3 camera:
+
+-[Hotspot and respond with image](https://github.com/RobertNeat/M5_cam_unit_webphotobooth)
+
 
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
