@@ -236,7 +236,10 @@ priv	https://github.com/RobertNeat/socialhub_api
 Schematics for components I own - [ESP_components_images](https://github.com/RobertNeat/ESP_components_images)
 
 1. <b>Rocket - Asteroid game</b> with display, steering potenciometer and manual button shoting
-[Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)
+<!--[Rocket-asteroid game](https://github.com/RobertNeat/Rocket-Asteroid_game)-->
+
+[Rocket - Asteroid game](https://github.com/RobertNeat/rocket_asteroid_game)
+
 1. Examples with basic electric components -- to modify
 [lab_1](https://github.com/RobertNeat/iot-LAB_1)
 1. Square display ST7789 (TFT_eSPI library)
