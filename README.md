@@ -250,6 +250,8 @@ Schematics for components I own - [ESP_components_images](https://github.com/Rob
 [sensor_readout](https://github.com/RobertNeat/Sensor-air-quality-ENS160---AHT21)
 1. Air Station - indoor air quality sensor station
 [Air_Station](https://github.com/RobertNeat/Air-Station)
+1. LD2410C - human presence radar
+[LD2410C](https://github.com/RobertNeat/LD2410C_human_presence)
 
 ## M5 Stack:
 
