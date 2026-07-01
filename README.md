@@ -1,49 +1,31 @@
-## Test 
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td colspan="2" style="border: 1px solid #d0d7de; border-radius: 12px;">
-            <table>
-              <tr>
-                <td width="35%" valign="top" style="padding: 12px;">
-                  <img src="your-image-url.png" alt="Project One" width="100%" style="border-radius: 8px;" />
-                </td>
-                <td width="65%" valign="top" style="padding: 12px;">
-                  <h3>Project One</h3>
-                  <p>Short description of the project. Simple, polished, and easy to read.</p>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-one.png" alt="Project One" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Project One</h3>
+      <p>Short description of the project. Simple, polished, and easy to read.</p>
     </td>
-
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td colspan="2" style="border: 1px solid #d0d7de; border-radius: 12px;">
-            <table>
-              <tr>
-                <td width="35%" valign="top" style="padding: 12px;">
-                  <img src="your-image-url.png" alt="Project Two" width="100%" style="border-radius: 8px;" />
-                </td>
-                <td width="65%" valign="top" style="padding: 12px;">
-                  <h3>Project Two</h3>
-                  <p>Short description of the project. Simple, polished, and easy to read.</p>
-                </td>
-              </tr>
-            </table>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-two.png" alt="Project Two" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Project Two</h3>
+      <p>Short description of the project. Simple, polished, and easy to read.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-three.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Project Three</h3>
+      <p>Short description of the project. Simple, polished, and easy to read.</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-four.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Project Four</h3>
+      <p>Short description of the project. Simple, polished, and easy to read.</p>
     </td>
   </tr>
 </table>
-
 
 <!--
 # Bigger projects:
