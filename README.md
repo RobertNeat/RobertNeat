@@ -4,7 +4,7 @@
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/WinTerminal_DevScript/refs/heads/main/resources/ps_fluent_design_384.svg" alt="WinTerminal_DevScript" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>WinTerminal_DevScript</h3>
+      <h3><a href="https://github.com/RobertNeat/WinTerminal_DevScript">WinTerminal_DevScript</a></h3>
       <p>Setup-Terminal is a PowerShell 5 based setup project for applying a consistent Windows Terminal configuration on a developer workstation.</p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
