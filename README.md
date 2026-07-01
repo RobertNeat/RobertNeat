@@ -1,55 +1,48 @@
-```html
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-        <table>
-          <tr>
-            <td width="35%" valign="top">
-              <img
-                src="your-image-url.png"
-                alt="Project One"
-                width="100%"
-                style="border-radius: 8px;"
-              />
-            </td>
-            <td width="65%" valign="top">
-              <h3>Project One</h3>
-              <p>
-                Short description of the project. Simple, polished, and easy to read.
-              </p>
-            </td>
-          </tr>
-        </table>
-      </div>
+      <table style="border: 1px solid #d0d7de; border-radius: 12px;">
+        <tr>
+          <td width="35%" valign="top" style="padding: 12px;">
+            <img
+              src="your-image-url.png"
+              alt="Project One"
+              width="100%"
+              style="border-radius: 8px;"
+            />
+          </td>
+          <td width="65%" valign="top" style="padding: 12px;">
+            <h3>Project One</h3>
+            <p>
+              Short description of the project. Simple, polished, and easy to read.
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
 
     <td width="50%" valign="top">
-      <div style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-        <table>
-          <tr>
-            <td width="35%" valign="top">
-              <img
-                src="your-image-url.png"
-                alt="Project Two"
-                width="100%"
-                style="border-radius: 8px;"
-              />
-            </td>
-            <td width="65%" valign="top">
-              <h3>Project Two</h3>
-              <p>
-                Short description of the project. Simple, polished, and easy to read.
-              </p>
-            </td>
-          </tr>
-        </table>
-      </div>
+      <table style="border: 1px solid #d0d7de; border-radius: 12px;">
+        <tr>
+          <td width="35%" valign="top" style="padding: 12px;">
+            <img
+              src="your-image-url.png"
+              alt="Project Two"
+              width="100%"
+              style="border-radius: 8px;"
+            />
+          </td>
+          <td width="65%" valign="top" style="padding: 12px;">
+            <h3>Project Two</h3>
+            <p>
+              Short description of the project. Simple, polished, and easy to read.
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-```
 
 <!--
 # Bigger projects:
