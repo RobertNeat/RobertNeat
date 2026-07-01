@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="./assets/project-one.png" alt="Project One" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Project One</h3>
-      <p>Short description of the project. Simple, polished, and easy to read.</p>
+      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/WinTerminal_DevScript/refs/heads/main/resources/ps_fluent_design_384.svg" alt="WinTerminal_DevScript" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>WinTerminal_DevScript</h3>
+      <p>Setup-Terminal is a PowerShell 5 based setup project for applying a consistent Windows Terminal configuration on a developer workstation.</p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="./assets/project-two.png" alt="Project Two" style="border-radius: 8px; margin-right: 14px;" />
