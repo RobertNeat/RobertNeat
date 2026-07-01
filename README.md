@@ -1,3 +1,5 @@
+```html
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -47,7 +49,7 @@
     </td>
   </tr>
 </table>
-
+```
 
 <!--
 # Bigger projects:
