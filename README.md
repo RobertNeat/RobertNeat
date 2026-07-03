@@ -8,10 +8,28 @@
       <p>Setup-Terminal is a PowerShell 5 based setup project for applying a consistent Windows Terminal configuration on a developer workstation.</p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RobertNeat/Python_ToolKit/refs/heads/main/media/python_fontawesome_white.svg"
+    />
+    <img
+      align="left"
+      width="120"
+      src="https://raw.githubusercontent.com/RobertNeat/Python_ToolKit/refs/heads/main/media/python_fontawesome.svg"
+      alt="Python Toolkit"
+      style="border-radius: 8px; margin-right: 14px;"
+    />
+  </picture>
+
+  <h3><a href="https://github.com/RobertNeat/Python_ToolKit">Python Toolkit</a></h3>
+  <p>Visual Studio Code extension for Python virtual environment management with automatic library install</p>
+</td>
+    <!-- <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Python_ToolKit/refs/heads/main/media/python_fontawesome.svg" alt="Python Toolkit" style="border-radius: 8px; margin-right: 14px;" />
       <h3><a href="https://github.com/RobertNeat/Python_ToolKit">Python Toolkit</a></h3>
       <p>Visual Studio Code extension for Python virtual environment management with automatic library install</p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
