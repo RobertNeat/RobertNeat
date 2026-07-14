@@ -39,6 +39,25 @@
   </tr>
 </table>
 
+
+## Open source
+
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="https://private-user-images.githubusercontent.com/47086490/621610852-a32a26e7-cb01-4e0a-9374-955a0ebf0fee.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQwNDgwNDEsIm5iZiI6MTc4NDA0Nzc0MSwicGF0aCI6Ii80NzA4NjQ5MC82MjE2MTA4NTItYTMyYTI2ZTctY2IwMS00ZTBhLTkzNzQtOTU1YTBlYmYwZmVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE0VDE2NDkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4NWI1MDEzYTcwZjdjOWIzY2M3ZjI4NmM5MGE1ODM1ZWVmODBmY2IyMjAyNzYzYzY0ZmEyNzJiODM0NTc5YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.unbl7p-lWrNZXstl6KoFu71z7OHA1-L9fmslN9fSftE" alt="TinyWatchy" style="border-radius: 8px; margin-right: 14px;" />
+      <h3><a href="https://github.com/RobertNeat/TinyWatchy">TinyWatchy (fork)</a></h3>
+      <p>Fork of Michal-Szczepaniak original work optimized with less refresh spanning longer work time and UI enhancements</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-four.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Project</h3>
+      <p>Short description of the project. Simple, polished, and easy to read.</p>
+    </td>
+  </tr>
+</table>
+
 <!--
 # Bigger projects:
  - System Operacyjny (projekt w QtCreator - C++):
