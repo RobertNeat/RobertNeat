@@ -46,15 +46,15 @@
 <table>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://github.com/RobertNeat/ESC_POS_Multipack/blob/main/docs/app_screenshots/readme_icon.png" alt="ESC_POS_Multipack" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/ESC_POS_Multipack">ESC_POS_Multipack</a></h3>
-      <p>Bisoffice POS-8370 thermal printer software</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://github.com/RobertNeat/CloudLess_Print_Bridge/blob/main/docs/app_screenshots/readme_icon.png" alt="CloudLess_Print_Bridge" style="border-radius: 8px; margin-right: 14px;" />
       <h3><a href="https://github.com/RobertNeat/CloudLess_Print_Bridge">CloudLess_Print_Bridge</a></h3>
       <p>Self-hosted local 3D printer management solution</p>
      </td>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="https://github.com/RobertNeat/ESC_POS_Multipack/blob/main/docs/app_screenshots/readme_icon.png" alt="ESC_POS_Multipack" style="border-radius: 8px; margin-right: 14px;" />
+      <h3><a href="https://github.com/RobertNeat/ESC_POS_Multipack">ESC_POS_Multipack</a></h3>
+      <p>Bisoffice POS-8370 thermal printer software</p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
