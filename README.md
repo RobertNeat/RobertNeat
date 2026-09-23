@@ -70,6 +70,8 @@
   </tr> 
 </table>
 
+[Algorithms | Design Patterns | Object Oriented Programming](https://github.com/RobertNeat/repo-index)
+
 <!--https://simpleicons.org/?q=swiftui-->
 <!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
 <!--<input type="checkbox" disabled />-->
