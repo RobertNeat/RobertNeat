@@ -1,6 +1,27 @@
 ## Featured Projects
 
 <table>
+    <tr>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-three.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Hospital Information System [active development]</h3>
+      <p>Enterprise grade Medical support system, implements standards: HL7v3 FHIR, SNOMED CT, ICD-11.</p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-four.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Enterprise Banking Platform [planned]</h3>
+      <p> ... description pending ... </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-three.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Electronic Document Workflow System [planned]</h3>
+      <p> ... description pending ... </p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/WinTerminal_DevScript/refs/heads/main/resources/ps_fluent_design_384.svg" alt="WinTerminal_DevScript" style="border-radius: 8px; margin-right: 14px;" />
@@ -25,18 +46,7 @@
       <p>Visual Studio Code extension for Python virtual environment management with automatic library install</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="./assets/project-three.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Project Three</h3>
-      <p>Short description of the project. Simple, polished, and easy to read.</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="./assets/project-four.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Project Four</h3>
-      <p>Short description of the project. Simple, polished, and easy to read.</p>
-    </td>
-  </tr>
+
 </table>
 
 
