@@ -8,9 +8,9 @@
       <p>Enterprise grade Medical support system, implements standards: HL7v3 FHIR, SNOMED CT, ICD-11.</p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="./assets/project-four.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
+      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Enterprise_Banking_Platform/refs/heads/main/apps/banking_web/public/colloseum.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
       <h3>Enterprise Banking Platform [planned]</h3>
-      <p> ... description pending ... </p>
+      <p>Modular regulation-aware core-banking platform featuring card processing, credit risk, debt enforcement and tregulatory reporting.</p>
     </td>
   </tr>
    <tr>
