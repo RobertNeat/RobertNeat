@@ -20,6 +20,9 @@
       <p> ... description pending ... </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="./assets/project-four.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
+      <h3>Parrot Social [planned]</h3>
+      <p> ... description pending ... </p>
     </td>
   </tr>
   <tr>
