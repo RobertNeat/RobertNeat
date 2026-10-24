@@ -4,24 +4,24 @@
     <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Hospital_Information_System/refs/heads/main/apps/his_frontend/public/logo.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Hospital Information System</h3>
+      <h3><a href="https://github.com/RobertNeat/Hospital_Information_System">Hospital Information System</a></h3>
       <p>Enterprise grade Medical support system, implements standards: HL7v3 FHIR, SNOMED CT, ICD-11.</p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Enterprise_Banking_Platform/refs/heads/main/apps/banking_web/public/colloseum.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Enterprise Banking Platform</h3>
+      <h3><a href="https://github.com/RobertNeat/Enterprise_Banking_Platform">Enterprise Banking Platform</a></h3>
       <p>Modular regulation-aware core-banking platform featuring card processing, credit risk, debt enforcement and tregulatory reporting.</p>
     </td>
   </tr>
    <tr>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="./assets/project-three.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Electronic Document Workflow System [planned]</h3>
+      <h3><a href="https://github.com/RobertNeat/Electonic_Document_Workflow_System">Electronic Document Workflow System [planned]</h3>
       <p> ... description pending ... </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Parrot_Social/refs/heads/main/apps/parrot_web/public/parrot_white_bg.png" alt="Parrot Social" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>Parrot Social</h3>
+      <h3><a href="https://github.com/RobertNeat/Parrot_Social">Parrot Social</a></h3>
       <p>Social media plaform featuring user profiles & feed, events, groups</p>
     </td>
   </tr>
