@@ -17,7 +17,7 @@
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Electonic_Document_Workflow_System/refs/heads/main/apps/document_web/public/document.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
       <h3><a href="https://github.com/RobertNeat/Electonic_Document_Workflow_System">Electronic Document Workflow System</h3>
-      <p> Accounting electronic document workflow system covering case management, document and template management, electronic signatures, correspondence. </p>
+      <p> Accounting system covering case management, document and template management, electronic signatures, correspondence. </p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Parrot_Social/refs/heads/main/apps/parrot_web/public/parrot_white_bg.png" alt="Parrot Social" style="border-radius: 8px; margin-right: 14px;" />
