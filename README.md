@@ -70,16 +70,16 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
+      <img align="left" width="120" src="https://github.com/RobertNeat/TxWrite/blob/main/apps/frontend/public/tx_logo.png" alt="TxWrite" style="border-radius: 8px; margin-right: 14px;" />
+      <h3><a href="https://github.com/RobertNeat/TxWrite">TxWrite</a></h3>
+      <p>LaTeX web self-hosted editor with Markdown support (multiple per-user workspaces)</p>
+     </td>
+     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
       <img align="left" width="120" src="https://watchy.sqfmi.com/img/oshw-logo.svg" alt="TinyWatchy" style="border-radius: 8px; margin-right: 14px;" />
       <h3><a href="https://github.com/RobertNeat/TinyWatchy">TinyWatchy (fork)</a></h3>
       <p>Fork of Michal-Szczepaniak original work optimized with less refresh spanning longer work time and UI enhancements</p>
     </td>
-     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="" alt="" style="border-radius: 8px; margin-right: 14px;" />
-      <h3>---</h3>
-      <p>---</p>
-     </td>
   </tr> 
 </table>
 
