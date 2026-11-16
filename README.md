@@ -1,94 +1,16 @@
-## Featured Projects
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<table>
-    <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Hospital_Information_System/refs/heads/main/apps/his_frontend/public/logo.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/Hospital_Information_System">Hospital Information System</a></h3>
-      <p>Enterprise grade Medical support system, implements standards: HL7v3 FHIR, SNOMED CT, ICD-11.</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Enterprise_Banking_Platform/refs/heads/main/apps/banking_web/public/colloseum.png" alt="Project Four" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/Enterprise_Banking_Platform">Enterprise Banking Platform</a></h3>
-      <p>Modular regulation-aware core-banking platform featuring card processing, credit risk, debt enforcement and tregulatory reporting.</p>
-    </td>
-  </tr>
-   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Electonic_Document_Workflow_System/refs/heads/main/apps/document_web/public/document.png" alt="Project Three" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/Electonic_Document_Workflow_System">Electronic Document Workflow System</h3>
-      <p> Accounting system covering case management, document and template management, electronic signatures, correspondence. </p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/Parrot_Social/refs/heads/main/apps/parrot_web/public/parrot_white_bg.png" alt="Parrot Social" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/Parrot_Social">Parrot Social</a></h3>
-      <p>Social media plaform featuring user profiles & feed, events, groups</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/WinTerminal_DevScript/refs/heads/main/resources/ps_fluent_design_384.svg" alt="WinTerminal_DevScript" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/WinTerminal_DevScript">WinTerminal_DevScript</a></h3>
-      <p>Setup-Terminal is a PowerShell 5 based setup project for applying a consistent Windows Terminal configuration on a developer workstation.</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/RobertNeat/Python_ToolKit/refs/heads/main/media/python_fontawesome_white.svg"
-        />
-        <img
-          align="left"
-          width="120"
-          src="https://raw.githubusercontent.com/RobertNeat/Python_ToolKit/refs/heads/main/media/python_fontawesome.svg"
-          alt="Python Toolkit"
-          style="border-radius: 8px; margin-right: 14px;"
-        />
-      </picture>
-      <h3><a href="https://github.com/RobertNeat/Python_ToolKit">Python Toolkit</a></h3>
-      <p>Visual Studio Code extension for Python virtual environment management with automatic library install</p>
-    </td>
-  </tr>
-
-</table>
-
-
-## Open source contributions
-
-
-<table>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://raw.githubusercontent.com/RobertNeat/CloudLess_Print_Bridge/refs/heads/main/docs/media/readme_icon.png" alt="CloudLess_Print_Bridge" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/CloudLess_Print_Bridge">CloudLess_Print_Bridge</a></h3>
-      <p>Self-hosted local 3D printer management solution</p>
-     </td>
-    <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://github.com/RobertNeat/ESC_POS_Multipack/blob/main/docs/app_screenshots/readme_icon.png" alt="ESC_POS_Multipack" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/ESC_POS_Multipack">ESC_POS_Multipack</a></h3>
-      <p>Bisoffice POS-8370 thermal printer software</p>
-    </td>
-  </tr>
-  <tr>
-     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://github.com/RobertNeat/TxWrite/blob/main/apps/frontend/public/tx_logo.png" alt="TxWrite" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/TxWrite">TxWrite</a></h3>
-      <p>LaTeX web self-hosted editor with Markdown support (multiple per-user workspaces)</p>
-     </td>
-     <td width="50%" valign="top" style="border: 1px solid #d0d7de; border-radius: 12px; padding: 14px;">
-      <img align="left" width="120" src="https://watchy.sqfmi.com/img/oshw-logo.svg" alt="TinyWatchy" style="border-radius: 8px; margin-right: 14px;" />
-      <h3><a href="https://github.com/RobertNeat/TinyWatchy">TinyWatchy (fork)</a></h3>
-      <p>Fork of Michal-Szczepaniak original work optimized with less refresh spanning longer work time and UI enhancements</p>
-    </td>
-  </tr> 
-</table>
-
-[Algorithms | Design Patterns | Object Oriented Programming](https://github.com/RobertNeat/repo-index)
-
-<!--https://simpleicons.org/?q=swiftui-->
-<!--rozwijane listy: https://gist.github.com/scmx/eca72d44afee0113ceb0349dd54a84a2-->
-<!--<input type="checkbox" disabled />-->
-<!--<input type="checkbox" checked />-->
-<!--https://banner.godori.dev/ height:150-->
-<!--https://shields.io/-->
-<!--https://carbon.now.sh/-->
+mDMEavr18BYJKwYBBAHaRw8BAQdALulSQM/XDHybAl/2uJlr/XijN+UJZFJFvmBF
+U0mZvZG0OVJvYmVydE5lYXQgPDQ3MDg2NDkwK1JvYmVydE5lYXRAdXNlcnMubm9y
+ZXBseS5naXRodWIuY29tPoiQBBMWCgA4FiEE/dyq+cnr/Sc/XZJCfaIfZrR5fq4F
+Amr69fACGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQfaIfZrR5fq7gAgD+
+NKNCyWdPUp9/ltWYYLqy7iAnZ3gr+rJPPP+z/XCYq/8A/04R9pMQp5bsqDD2XrcY
+qVDLDgnpWLVkUCtC6v8emKYFuDgEavr18BIKKwYBBAGXVQEFAQEHQCSYmPwgdJBo
+rJxDQnEN/zalqzoigfZu6y9mBadSK+c9AwEIB4h4BBgWCgAgFiEE/dyq+cnr/Sc/
+XZJCfaIfZrR5fq4FAmr69fACGwwACgkQfaIfZrR5fq79dwEAuo5bTqxazwLtu7vB
+fXEnT+Ft1nRlCFVfHE74Z84+CGsBANSaApWnUUD4MBC96lfFIE7CN0+R3oJ+m3gW
+NRaK/soP
+=wFvT
+-----END PGP PUBLIC KEY BLOCK-----
+```
